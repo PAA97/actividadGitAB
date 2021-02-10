@@ -12,5 +12,6 @@ public class HolaMundo {
     
     public void imprimirHolaMundo() {
         System.out.println("Hola Mundo");
+        System.out.println("Adiós Mundo");
     }
 }
